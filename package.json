@@ -1,0 +1,1 @@
+{"name":"kanjosho","private":true,"type":"module","scripts":{"dev":"wrangler dev","deploy":"wrangler deploy"},"dependencies":{"@cf-wasm/og":"latest"},"devDependencies":{"wrangler":"^4.0.0"}}
